@@ -1,4 +1,4 @@
 # team6
 Linux 2 - Bash Project - Team 6
 
-First test 2
+Richard test 1 editing the README.md file 
